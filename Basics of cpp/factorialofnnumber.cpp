@@ -1,3 +1,4 @@
+// print the factorial of the of the n nummber .
 #include <iostream>
 using namespace std;
 int main()
