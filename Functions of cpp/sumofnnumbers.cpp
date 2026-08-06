@@ -16,4 +16,5 @@ int main()
     cout << "Enter Number: ";
     cin >> n;
     cout << sumN(n) << endl;
+    return 0;
 }
