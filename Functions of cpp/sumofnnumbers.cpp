@@ -1,4 +1,4 @@
-// sum of N numbers using by the functions
+// sum of N numbers using by the functions in c++
 #include <iostream>
 using namespace std;
 int sumN(int n)
@@ -13,7 +13,7 @@ int sumN(int n)
 int main()
 {
     int n;
-    cout << "Enter Number: ";
+    cout << "Enter The Number: ";
     cin >> n;
     cout << sumN(n) << endl;
     return 0;
