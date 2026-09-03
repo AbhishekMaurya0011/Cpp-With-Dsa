@@ -1,4 +1,4 @@
-// sum of N numbers using by the functions in c++
+// WAP find the sum of 1 to n by using the function and n is input by the user
 #include <iostream>
 using namespace std;
 int sumN(int n)
@@ -13,8 +13,8 @@ int sumN(int n)
 int main()
 {
     int n;
-    cout << "Enter The Number: ";
+    cout << "Enter Number n:";
     cin >> n;
-    cout << sumN(n) << endl;
+    cout << "Sum of Number n is:" << sumN(n);
     return 0;
 }
