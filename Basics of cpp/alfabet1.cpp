@@ -1,4 +1,4 @@
-// For checking the alfabet is in loer case or upper case by using number method
+// For checking the alfabet is in lower case or upper case by using number method
 #include <iostream>
 using namespace std;
 int main()
