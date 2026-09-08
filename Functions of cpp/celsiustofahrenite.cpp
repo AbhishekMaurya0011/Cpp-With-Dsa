@@ -1,4 +1,4 @@
-// WAP to convert the temperature celsius into fagrenite by using the functions
+// WAP to convert the temperature celsius into fahrenite by using the functions
 #include <iostream>
 using namespace std;
 float fahrenhite(float celsius)
