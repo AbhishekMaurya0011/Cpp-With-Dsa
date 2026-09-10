@@ -1,4 +1,4 @@
-// check the greatest number using the conditional statement
+// check the greatest number using the conditional statement and input by the user.
 #include <iostream>
 using namespace std;
 int main()
