@@ -1,4 +1,4 @@
-// checking for positive or negative number by using ternary operator
+// checking for positive or negative number by using ternary operator and number given by the user.
 #include <iostream>
 using namespace std;
 int main()
