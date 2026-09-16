@@ -1,4 +1,9 @@
-// WAP to print the hollow triangle pyramid and the number of stars is given by the user.
+// WAP to print the hollow triangle pyramid and the number of stars is given by the user
+//     *
+//    * *
+//   *   *
+//  *     *
+// *********
 #include <iostream>
 using namespace std;
 int main()
