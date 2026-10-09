@@ -1,4 +1,4 @@
-// WAP to calculate sum of array elements and input is given by the user.
+// WAP to calculate the sum of array elements and input is given by the user.
 #include <iostream>
 using namespace std;
 int main()
