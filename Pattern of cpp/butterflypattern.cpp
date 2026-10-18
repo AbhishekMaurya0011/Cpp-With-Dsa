@@ -1,5 +1,13 @@
-// WAP to print the butterfly pattern using by the function.
-#include <iostream>
+// WAP to print the butterfly pattern using by the function for n=4.
+// *      *
+// **    **
+// ***  ***
+// ********
+// ********
+// ***  ***
+// **    **
+// *      *
+#include<iostream>
 using namespace std;
 void pattern(int n)
 {
