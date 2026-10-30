@@ -1,4 +1,4 @@
-// WAP to convert the decimal number into the binary number by using the function.
+// WAP to convert decimal number into the binary number by using the function.
 #include <iostream>
 using namespace std;
 void binary(int n)
