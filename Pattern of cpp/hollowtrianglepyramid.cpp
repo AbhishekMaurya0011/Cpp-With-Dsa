@@ -1,4 +1,4 @@
-// WAP to print the hollow triangle pyramid and the number of stars is given by the user
+// WAP to print hollow triangle pyramid and the number of stars is given by the user
 //     *
 //    * *
 //   *   *
